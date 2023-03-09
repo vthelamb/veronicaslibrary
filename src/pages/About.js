@@ -16,7 +16,7 @@ const about = (props) => {
         Use the search bar to find the latest books by name, author
         or description
         </p>
-        <Link to="/">Back to Home</Link>
+        <Link to="/veronicaslibrary">Back to Home</Link>
       </div>
     </div>
   );
