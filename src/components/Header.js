@@ -5,7 +5,7 @@ const Header = (props) => {
   <header>
   <h1 className="title">Veronica's e-Book Library</h1>
   <div className="navbar">
-  <Link to="/"> Home</Link>
+  <Link to="/home"> Home</Link>
 
   <Link to="/about">About</Link> 
   
